@@ -1,2 +1,2 @@
-# ESP32_MiBand6_Server
-基于ESP32的小米手环6的心率中转服务器
+# ESP32_HeartRate_Server
+基于ESP32的心率中转服务器
